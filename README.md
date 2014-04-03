@@ -1,6 +1,8 @@
 brainslug
 =========
 
+Brainslug is the internal name for a wearable we're experimenting with - this is the board that powers it. It combines an RFduino (ARM Cortex + BLE stack) and some MOSFET drivers to actuate high-current peripherals (heat pad, super-bright LED, peltier junction, etc).
+
 Eagle board files for a small RFD22301 shield
 
 This board allows an RFD22301 unit to address a dual-channel N-MOSFET IC on pins 0 and 1.
